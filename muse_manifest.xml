@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616620849241">
+  <folder name="css">
+    <file name="site_global.css" crc="459503440"/>
+    <file name="master_a-master.css" crc="528444076" ref="index:jaqi-loye-brown:temp"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:jaqi-loye-brown:temp"/>
+    <file name="index.css" crc="3779904794" ref="index"/>
+    <file name="nomq_index.css" crc="154095796" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="4197868589" ref="jaqi-loye-brown"/>
+    <file name="nomq_jaqi-loye-brown.css" crc="3981656361" ref="jaqi-loye-brown"/>
+    <file name="temp.css" crc="3948516589" ref="temp"/>
+    <file name="nomq_temp.css" crc="3962210813" ref="temp"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jaqi-loye-brown:temp"/>
+    <file name="museutils.js" crc="340535759" ref="index:jaqi-loye-brown:temp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jaqi-loye-brown:temp"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:jaqi-loye-brown:temp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:jaqi-loye-brown"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:jaqi-loye-brown:temp"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:jaqi-loye-brown:temp"/>
+    <file name="require.js" crc="7928878" ref="index:jaqi-loye-brown:temp"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4144830939" ref="index"/>
+    <file name="header.png" crc="119641888" ref="index:jaqi-loye-brown">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="jaqi-loye-brown" alt=""/>
+    </file>
+    <file name="body01.jpg" crc="3885943065" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="body-02-1.jpg" crc="4171564908" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer.png" crc="511057288" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="body01-u17308-fr.jpg" crc="174542363" ref="index"/>
+    <file name="body01-u17308-fr2.jpg" crc="4229531459" ref="index"/>
+    <file name="body-02-1-u17385-fr.jpg" crc="3872163125" ref="index"/>
+    <file name="body-02-1-u17385-fr2.jpg" crc="468368959" ref="index"/>
+    <file name="body01-u17308-fr3.jpg" crc="4040316054" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4144830939" ref="jaqi-loye-brown"/>
+  </folder>
+  <file name="index.html" crc="28658227" seo="true" mt="1616620715106" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="4113085756" seo="true" mt="1616620715106" redirect="true"/>
+  <file name="temp.html" crc="4265552182" seo="true" mt="1616620715106" redirect="true"/>
+</manifest>
