@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616648210463">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616648646184">
   <folder name="css">
     <file name="site_global.css" crc="417695320"/>
-    <file name="master_a-master.css" crc="505547427" ref="index:jaqi-loye-brown:temp"/>
+    <file name="master_a-master.css" crc="4203757457" ref="index:jaqi-loye-brown:temp"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="360042814" ref="index"/>
+    <file name="index.css" crc="41371567" ref="index"/>
     <file name="nomq_index.css" crc="4161304377" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="3833508655" ref="jaqi-loye-brown"/>
     <file name="nomq_jaqi-loye-brown.css" crc="3892868690" ref="jaqi-loye-brown"/>
@@ -47,7 +47,7 @@
     <file name="body01-u17308-fr3.jpg" crc="4172085847" ref="index"/>
     <file name="a-master-favicon.ico" crc="4144830939" ref="jaqi-loye-brown"/>
     <file name="body01-u17308-fr4.jpg" crc="119181930" ref="index"/>
-    <file name="body-02-1-u17385-fr3.jpg" crc="4041017191" ref="index"/>
+    <file name="body-02-1-u17385-fr3.jpg" crc="225792810" ref="index"/>
     <file name="body01-u17308-fr5.jpg" crc="536249043" ref="index"/>
     <file name="body-02-1-u17385-fr4.jpg" crc="4002730933" ref="index"/>
     <file name="body01-u17308-fr6.jpg" crc="3780249718" ref="index"/>
@@ -57,7 +57,7 @@
     <file name="body01-u17308-fr9.jpg" crc="4232458380" ref="index"/>
     <file name="body-02-1-u17385-fr6.jpg" crc="468368959" ref="index"/>
   </folder>
-  <file name="index.html" crc="4256300877" seo="true" mt="1616648163909" redirect="true"/>
+  <file name="index.html" crc="268167579" seo="true" mt="1616648620204" redirect="true"/>
   <file name="jaqi-loye-brown.html" crc="4165912309" seo="true" mt="1616643876088" redirect="true"/>
   <file name="temp.html" crc="4025427843" seo="true" mt="1616643876088" redirect="true"/>
 </manifest>
