@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616875098118">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616876727500">
   <folder name="css">
     <file name="site_global.css" crc="4226037873"/>
-    <file name="master_a-master.css" crc="490451495" ref="index:jaqi-loye-brown:temp"/>
+    <file name="master_a-master.css" crc="3831810358" ref="index:jaqi-loye-brown:temp"/>
     <file name="nomq_preview_master_a-master.css" crc="4259966042" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="211827334" ref="index"/>
-    <file name="nomq_index.css" crc="4133850897" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="4089957374" ref="jaqi-loye-brown"/>
+    <file name="index.css" crc="4121260608" ref="index"/>
+    <file name="nomq_index.css" crc="402255345" ref="index"/>
+    <file name="jaqi-loye-brown.css" crc="367659457" ref="jaqi-loye-brown"/>
     <file name="nomq_jaqi-loye-brown.css" crc="82424254" ref="jaqi-loye-brown"/>
-    <file name="temp.css" crc="3821274839" ref="temp"/>
+    <file name="temp.css" crc="4271313320" ref="temp"/>
     <file name="nomq_temp.css" crc="300914677" ref="temp"/>
   </folder>
   <folder name="scripts">
@@ -23,27 +23,15 @@
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4144830939" ref="index"/>
-    <file name="body01.jpg" crc="3885943065" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="body-02-1.jpg" crc="4171564908" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="body01-u17308-fr.jpg" crc="174542363" ref="index"/>
-    <file name="body01-u17308-fr2.jpg" crc="4072844479" ref="index"/>
     <file name="body-02-1-u17385-fr.jpg" crc="4235061449" ref="index"/>
     <file name="body-02-1-u17385-fr2.jpg" crc="172299732" ref="index"/>
-    <file name="body01-u17308-fr3.jpg" crc="4172085847" ref="index"/>
     <file name="a-master-favicon.ico" crc="4144830939" ref="jaqi-loye-brown"/>
-    <file name="body01-u17308-fr4.jpg" crc="119181930" ref="index"/>
     <file name="body-02-1-u17385-fr3.jpg" crc="4127476330" ref="index"/>
-    <file name="body01-u17308-fr5.jpg" crc="536249043" ref="index"/>
     <file name="body-02-1-u17385-fr4.jpg" crc="42958708" ref="index"/>
-    <file name="body01-u17308-fr6.jpg" crc="3780249718" ref="index"/>
     <file name="body-02-1-u17385-fr5.jpg" crc="32208463" ref="index"/>
-    <file name="body01-u17308-fr7.jpg" crc="43219292" ref="index"/>
-    <file name="body01-u17308-fr8.jpg" crc="4210097462" ref="index"/>
-    <file name="body01-u17308-fr9.jpg" crc="4232458380" ref="index"/>
     <file name="body-02-1-u17385-fr6.jpg" crc="4179053098" ref="index"/>
     <file name="footer-u17466-fr.png" crc="509883353" ref="index"/>
     <file name="logo.png" crc="197625730" ref="index">
@@ -60,8 +48,20 @@
     <file name="footer-u17466-fr8.png" crc="3983348762" ref="index"/>
     <file name="footer-u17466-fr9.png" crc="70404795" ref="index"/>
     <file name="logo-u21036-fr2.png" crc="407743432" ref="index"/>
+    <file name="body01.png" crc="3885943065" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="body01-u17308-fr.png" crc="174542363" ref="index"/>
+    <file name="body01-u17308-fr2.png" crc="4072844479" ref="index"/>
+    <file name="body01-u17308-fr3.png" crc="4172085847" ref="index"/>
+    <file name="body01-u17308-fr4.png" crc="119181930" ref="index"/>
+    <file name="body01-u17308-fr5.png" crc="536249043" ref="index"/>
+    <file name="body01-u17308-fr6.png" crc="3780249718" ref="index"/>
+    <file name="body01-u17308-fr7.png" crc="43219292" ref="index"/>
+    <file name="body01-u17308-fr8.png" crc="4210097462" ref="index"/>
+    <file name="body01-u17308-fr9.png" crc="4232458380" ref="index"/>
   </folder>
-  <file name="index.html" crc="4200121711" seo="true" mt="1616875041126" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="3801145604" seo="true" mt="1616873513767" redirect="true"/>
-  <file name="temp.html" crc="3790897298" seo="true" mt="1616873513767" redirect="true"/>
+  <file name="index.html" crc="177723552" seo="true" mt="1616876666646" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="70664369" seo="true" mt="1616876338053" redirect="true"/>
+  <file name="temp.html" crc="340119164" seo="true" mt="1616876338053" redirect="true"/>
 </manifest>
