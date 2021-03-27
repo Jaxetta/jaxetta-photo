@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616876727500">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616877158445">
   <folder name="css">
     <file name="site_global.css" crc="4226037873"/>
     <file name="master_a-master.css" crc="3831810358" ref="index:jaqi-loye-brown:temp"/>
     <file name="nomq_preview_master_a-master.css" crc="4259966042" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="4121260608" ref="index"/>
+    <file name="index.css" crc="372646357" ref="index"/>
     <file name="nomq_index.css" crc="402255345" ref="index"/>
-    <file name="jaqi-loye-brown.css" crc="367659457" ref="jaqi-loye-brown"/>
+    <file name="jaqi-loye-brown.css" crc="327672275" ref="jaqi-loye-brown"/>
     <file name="nomq_jaqi-loye-brown.css" crc="82424254" ref="jaqi-loye-brown"/>
-    <file name="temp.css" crc="4271313320" ref="temp"/>
+    <file name="temp.css" crc="4177197498" ref="temp"/>
     <file name="nomq_temp.css" crc="300914677" ref="temp"/>
   </folder>
   <folder name="scripts">
@@ -37,7 +37,7 @@
     <file name="logo.png" crc="197625730" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="body-02-1-u17385-fr7.jpg" crc="3765302685" ref="index"/>
+    <file name="body-02-1-u17385-fr7.jpg" crc="261724587" ref="index"/>
     <file name="logo-u21036-fr.png" crc="195439940" ref="index"/>
     <file name="footer-u17466-fr2.png" crc="74937532" ref="index"/>
     <file name="footer-u17466-fr3.png" crc="240274085" ref="index"/>
@@ -60,8 +60,9 @@
     <file name="body01-u17308-fr7.png" crc="43219292" ref="index"/>
     <file name="body01-u17308-fr8.png" crc="4210097462" ref="index"/>
     <file name="body01-u17308-fr9.png" crc="4232458380" ref="index"/>
+    <file name="body-02-1-u17385-fr8.jpg" crc="3765302685" ref="index"/>
   </folder>
-  <file name="index.html" crc="177723552" seo="true" mt="1616876666646" redirect="true"/>
-  <file name="jaqi-loye-brown.html" crc="70664369" seo="true" mt="1616876338053" redirect="true"/>
-  <file name="temp.html" crc="340119164" seo="true" mt="1616876338053" redirect="true"/>
+  <file name="index.html" crc="4026768397" seo="true" mt="1616877097970" redirect="true"/>
+  <file name="jaqi-loye-brown.html" crc="4160564266" seo="true" mt="1616877097970" redirect="true"/>
+  <file name="temp.html" crc="303687155" seo="true" mt="1616877097970" redirect="true"/>
 </manifest>

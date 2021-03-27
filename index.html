@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4226037873"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3831810358"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4121260608" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=372646357" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=4259966042"/>
@@ -264,7 +264,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="verticalspacer" data-offset-top="1317" data-content-above-spacer="1007" data-content-below-spacer="0"></div>
    </div>
   </div>
-  <div class="breakpoint" id="bp_403" data-min-width="372" data-max-width="403"><!-- responsive breakpoint node -->
+  <div class="breakpoint" id="bp_403" data-min-width="401" data-max-width="403"><!-- responsive breakpoint node -->
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu17308"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu17308"><!-- group -->
@@ -290,10 +290,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="clearfix colelem placeholder" data-placeholder-for="u21755-4_content"><!-- placeholder node --></span>
     </div>
     <span class="mse_pre_init placeholder" data-placeholder-for="u17589_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="1272" data-content-above-spacer="980" data-content-below-spacer="0"></div>
+    <div class="verticalspacer shared_content" data-offset-top="1272" data-content-above-spacer="980" data-content-below-spacer="0" data-content-guid="page_2_content"></div>
    </div>
   </div>
-  <div class="breakpoint" id="bp_371" data-max-width="371"><!-- responsive breakpoint node -->
+  <div class="breakpoint" id="bp_400" data-min-width="372" data-max-width="400"><!-- responsive breakpoint node -->
    <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu17979"><!-- column -->
      <div class="browser_width colelem temp_no_id" data-orig-id="u17979-bw">
@@ -301,6 +301,35 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <div class="browser_width colelem temp_no_id" data-orig-id="u17308-bw">
       <span class="museBGSize placeholder" data-placeholder-for="u17308_content"><!-- placeholder node --></span>
+     </div>
+     <div class="browser_width colelem temp_no_id" data-orig-id="u17385-bw">
+      <div class="museBGSize temp_no_id" data-orig-id="u17385"><!-- column -->
+       <div class="clearfix temp_no_id" data-orig-id="u17385_align_to_page">
+        <span class="nonblock nontext colelem placeholder" data-placeholder-for="u21238_content"><!-- placeholder node --></span>
+        <span class="clearfix colelem placeholder" data-placeholder-for="u20773-5_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+     </div>
+     <div class="museBGSize clearfix colelem temp_no_id" data-orig-id="u17466"><!-- column -->
+      <span class="clearfix colelem placeholder" data-placeholder-for="u17653-9_content"><!-- placeholder node --></span>
+      <span class="museBGSize colelem placeholder" data-placeholder-for="u21036_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u21755-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="mse_pre_init placeholder" data-placeholder-for="u17589_content"><!-- placeholder node --></span>
+    <span class="verticalspacer placeholder" data-placeholder-for="page_2_content"><!-- placeholder node --></span>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_371" data-max-width="371"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu17308"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu17308"><!-- group -->
+      <div class="browser_width grpelem temp_no_id" data-orig-id="u17308-bw">
+       <span class="museBGSize placeholder" data-placeholder-for="u17308_content"><!-- placeholder node --></span>
+      </div>
+      <div class="browser_width grpelem temp_no_id" data-orig-id="u17979-bw">
+       <span class="placeholder" data-placeholder-for="u17979_content"><!-- placeholder node --></span>
+      </div>
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="pu17466"><!-- group -->
       <div class="museBGSize clearfix grpelem temp_no_id" data-orig-id="u17466"><!-- column -->
@@ -334,26 +363,26 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_403').one('muse_this_bp_activate', function(){
-$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,886.63],"speed":[0,1]},{"in":[886.63,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1075').one('muse_this_bp_activate', function(){
-$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,2097.98],"speed":[0,1]},{"in":[2097.98,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_800').one('muse_this_bp_activate', function(){
-$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,1446.1],"speed":[0,1]},{"in":[1446.1,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_371').one('muse_this_bp_activate', function(){
-$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,866],"speed":[0,1]},{"in":[866,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_595').one('muse_this_bp_activate', function(){
 $('#u17589').registerPositionScrollEffect([{"in":[-Infinity,1045.77],"speed":[0,1]},{"in":[1045.77,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u17589').registerPositionScrollEffect([{"in":[-Infinity,3011.92],"speed":[0,1]},{"in":[3011.92,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
+$('#bp_1075').one('muse_this_bp_activate', function(){
+$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,2097.98],"speed":[0,1]},{"in":[2097.98,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_403').one('muse_this_bp_activate', function(){
+$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,886.63],"speed":[0,1]},{"in":[886.63,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_371').one('muse_this_bp_activate', function(){
+$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,866],"speed":[0,1]},{"in":[866,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_1350').one('muse_this_bp_activate', function(){
 $('#u17589').registerPositionScrollEffect([{"in":[-Infinity,2304.02],"speed":[0,1]},{"in":[2304.02,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_495').one('muse_this_bp_activate', function(){
+$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,984.27],"speed":[0,1]},{"in":[984.27,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_680').one('muse_this_bp_activate', function(){
 $('#u17589').registerPositionScrollEffect([{"in":[-Infinity,1211.56],"speed":[0,1]},{"in":[1211.56,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
@@ -361,8 +390,11 @@ $('#u17589').registerPositionScrollEffect([{"in":[-Infinity,1211.56],"speed":[0,
 $('#bp_431').one('muse_this_bp_activate', function(){
 $('#u17589').registerPositionScrollEffect([{"in":[-Infinity,927.94],"speed":[0,1]},{"in":[927.94,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_495').one('muse_this_bp_activate', function(){
-$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,984.27],"speed":[0,1]},{"in":[984.27,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
+$('#bp_800').one('muse_this_bp_activate', function(){
+$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,1446.1],"speed":[0,1]},{"in":[1446.1,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_400').one('muse_this_bp_activate', function(){
+$('#u17589').registerPositionScrollEffect([{"in":[-Infinity,886.63],"speed":[0,1]},{"in":[886.63,Infinity],"speed":[0,1.3]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
