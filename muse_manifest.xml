@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616877937271">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="portobello-novella.com" resolutions="1x" timestamp="1616935543600">
   <folder name="css">
     <file name="site_global.css" crc="4226037873"/>
     <file name="master_a-master.css" crc="214413560" ref="index:jaqi-loye-brown:temp"/>
     <file name="nomq_preview_master_a-master.css" crc="4259966042" ref="index:jaqi-loye-brown:temp"/>
-    <file name="index.css" crc="3794423813" ref="index"/>
-    <file name="nomq_index.css" crc="3915016027" ref="index"/>
+    <file name="index.css" crc="489083547" ref="index"/>
+    <file name="nomq_index.css" crc="81104637" ref="index"/>
     <file name="jaqi-loye-brown.css" crc="3903986773" ref="jaqi-loye-brown"/>
     <file name="nomq_jaqi-loye-brown.css" crc="82424254" ref="jaqi-loye-brown"/>
     <file name="temp.css" crc="4059167438" ref="temp"/>
@@ -33,20 +33,19 @@
     <file name="body-02-1-u17385-fr4.jpg" crc="42958708" ref="index"/>
     <file name="body-02-1-u17385-fr5.jpg" crc="32208463" ref="index"/>
     <file name="body-02-1-u17385-fr6.jpg" crc="4179053098" ref="index"/>
-    <file name="footer-u17466-fr.png" crc="509883353" ref="index"/>
+    <file name="footer-u17466-fr.png" crc="3893529010" ref="index"/>
     <file name="logo.png" crc="197625730" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="body-02-1-u17385-fr7.jpg" crc="261724587" ref="index"/>
     <file name="logo-u21036-fr.png" crc="195439940" ref="index"/>
-    <file name="footer-u17466-fr2.png" crc="74937532" ref="index"/>
-    <file name="footer-u17466-fr3.png" crc="240274085" ref="index"/>
-    <file name="footer-u17466-fr4.png" crc="3904237625" ref="index"/>
-    <file name="footer-u17466-fr5.png" crc="136641961" ref="index"/>
-    <file name="footer-u17466-fr6.png" crc="3931713489" ref="index"/>
-    <file name="footer-u17466-fr7.png" crc="248502627" ref="index"/>
-    <file name="footer-u17466-fr8.png" crc="3983348762" ref="index"/>
-    <file name="footer-u17466-fr9.png" crc="70404795" ref="index"/>
+    <file name="footer-u17466-fr2.png" crc="534092020" ref="index"/>
+    <file name="footer-u17466-fr3.png" crc="4076763143" ref="index"/>
+    <file name="footer-u17466-fr4.png" crc="174692611" ref="index"/>
+    <file name="footer-u17466-fr5.png" crc="4057888798" ref="index"/>
+    <file name="footer-u17466-fr6.png" crc="412295004" ref="index"/>
+    <file name="footer-u17466-fr7.png" crc="4112351736" ref="index"/>
+    <file name="footer-u17466-fr8.png" crc="3886564479" ref="index"/>
     <file name="logo-u21036-fr2.png" crc="407743432" ref="index"/>
     <file name="body-02-1-u17385-fr8.jpg" crc="3765302685" ref="index"/>
     <file name="body01.jpg" crc="3885943065" ref="index"/>
@@ -59,8 +58,11 @@
     <file name="body01-u17308-fr7.jpg" crc="43219292" ref="index"/>
     <file name="body01-u17308-fr8.jpg" crc="4210097462" ref="index"/>
     <file name="body01-u17308-fr9.jpg" crc="4232458380" ref="index"/>
+    <file name="footer.png" crc="511057288" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3828098674" seo="true" mt="1616877911330" redirect="true"/>
+  <file name="index.html" crc="488424437" seo="true" mt="1616935497707" redirect="true"/>
   <file name="jaqi-loye-brown.html" crc="237559262" seo="true" mt="1616877494064" redirect="true"/>
   <file name="temp.html" crc="3806476720" seo="true" mt="1616877494064" redirect="true"/>
 </manifest>
